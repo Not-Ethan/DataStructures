@@ -2,9 +2,18 @@
 
 ## About
 A collection of common data structures implemented in java by me. <br>
-All data structures are implemented in java with comments. <br>
-Code is written throughout my senior year of high school and first year of college. <br>
 
 ## Types Included:
+### Lists
 - Array List
-- Linked List
+- Linked List/Doubly LL/Circular LL
+- Stack
+- Queue
+### Graphs
+- Heap/Priority Heap
+- Binary Tree/BST/AVL Tree
+- Undirected Graph
+### Hashing
+- Hash Set
+- Hash Table
+- Hash Map
