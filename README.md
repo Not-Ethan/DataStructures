@@ -1,7 +1,7 @@
 # Data Structures and Algorithms In Java
 
 ## About
-A collection of common data structures and algorithms implemented in Java by me. 
+A collection of common data structures and algorithms implemented by me in Java. 
 
 ## Types Included:
 
